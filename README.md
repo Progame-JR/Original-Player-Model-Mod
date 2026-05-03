@@ -1,6 +1,8 @@
 # Original-Player-Model-Mod
 A BepInEx mod for Gorilla Tag (PC/Steam) that replaces the current player model with the original 2022 gorilla model for all players in the lobby.
 
+https://gifyu.com/image/b7k2F
+
 # Features
 
 • Restores the original 2022 gorilla mesh and textures on all players
