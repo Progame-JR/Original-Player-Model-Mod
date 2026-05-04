@@ -1,3 +1,5 @@
+WARNING THIS IS A FAN MADE MOD IT IS NOT INDORSED OR CREATED BY ANOTHER AXIOM AND MAY CAUSE BUGS/ISSUES WITH YOUR GORILLA TAG PLEASE USE THIS AT YOUR OWN RISK
+
 # Original-Player-Model-Mod
 A BepInEx mod for Gorilla Tag (PC/Steam) that replaces the current player model with the original 2022 gorilla model for all players in the lobby.
 
@@ -10,19 +12,15 @@ A BepInEx mod for Gorilla Tag (PC/Steam) that replaces the current player model 
 • Player colors are preserved and update in real time
 • Finger movement works using the live rig's existing bone system
 • Mouth animation is disabled to preserve the original look
-• Voice chat is unaffected
 
 # Requirements
 
-• Gorilla Tag (Steam, PC)
-• BepInEx 5.4.x
-• Utilla 1.6.x
+You are going to require BepInEx 5.4.x and Utilia 1.6.x along with a legal copy of gorilla tag on steam if you are unsure on how to install BepInEx 5.4.x and Utilia 1.6x
+I recommend finding an online guide/video 
 
 # Installation
 
-1. Install BepInEx and Utilla via Monke Mod Manager
-2. Drop OgPlayerModelMod.dll into Gorilla Tag/BepInEx/plugins/
-3. Drop the ogmodel asset bundle (no extension) into the same folder
+considering you already have BepInEx 5.4.x installed and Utilia 1.6.x the installation process is very easy simplu drop OgPlayerModelMod.dll into Gorilla_Tag/BepInEx/plugins/
+and drop the ogModel asset bundle (no extensions) into the same folder
 
-# Disclaimer
-This mod is a fan project and is not affiliated with or endorsed by Another Axiom. Use at your own risk.
+
